@@ -1,6 +1,6 @@
 # My Personal Blog [ html + css + javascript ]
 
-## [Open Webpage](https://rahulmishrahacker.github.io)
+## [Open Webpage](https://rahulmnitw.github.io/rahulmishrahacker.github.io/)
 
 ## Bootstrap Version: 4.3.1
 
